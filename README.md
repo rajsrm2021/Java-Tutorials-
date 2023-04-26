@@ -1,4 +1,4 @@
-# Java-Tutorials-
+# Java-tutorials-Alpha-Batch-3.0-
 
-In this repository I will put the DSA important questions solution which where asked in MNCs interview 
-I am using Java language to solve the DSA questions
+## Here I will upload famous DSA questions that were asked in interviews with various companies.
+## I will use Java language to solve DSA questions.
